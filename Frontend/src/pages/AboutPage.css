@@ -1,0 +1,49 @@
+.aboutPage{
+    max-width: 100%;
+    padding: 10px 20px;
+      background-color: #333;
+}
+
+.ap-container{
+    max-width: 95%;
+    margin: 0 auto;
+}
+
+.content-section{
+    background-color: rgb(87, 88, 88);
+    padding: 10px 20px;
+    margin: 15px 5px;
+    border-radius: 20px;
+}
+
+.cs-head{
+    font-weight: 600;
+    font-size: 22px;
+}
+
+.cs-body{
+    font-style: oblique;
+}
+
+.subcontent-section{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.scs-sec{
+    min-width: 300px;
+    max-width: 450px;
+    min-height: max-content;
+    margin: 10px;
+    background-color: rgb(104, 105, 105);
+    padding: 10px;
+}
+
+.sec-head{
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.sec-body{
+    font-style:oblique;
+}

@@ -1,0 +1,30 @@
+.nav{
+    background-color: #333;
+    padding: 10px 20px;
+    max-width: 100%;
+}
+
+.nav-container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 95%;
+  margin: 0 auto;
+}
+
+.links-ul{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+.links-ul li a{
+    color: white;
+    /* text-decoration: none; */
+}
+
+.nav-users{
+    color: white;
+}

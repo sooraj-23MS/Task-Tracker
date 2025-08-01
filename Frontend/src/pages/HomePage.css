@@ -1,0 +1,33 @@
+.homePage{
+    background-color: #333;
+    max-width: 100%;
+    padding: 10px 20px;
+}
+
+.hp-container{
+    max-width: 95%;
+    margin: 0 auto;
+}
+
+.welcome-section{
+    background-color: rgb(87, 88, 88);
+    padding: 10px 20px;
+    margin: 15px 5px;
+    border-radius: 20px;
+}
+
+.feature-section{
+    background-color: rgb(87, 88, 88);
+    padding: 10px 20px;
+    margin: 15px 5px;
+    border-radius: 20px;
+}
+
+.fs-head{
+    font-weight: 600;
+    font-size: 22px;
+}
+
+.fs-body{
+     display: flex;
+}

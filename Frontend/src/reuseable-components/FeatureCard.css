@@ -1,0 +1,14 @@
+.feat-card{
+    min-width: 300px;
+    min-height: max-content;
+    margin: 10px;
+    background-color: rgb(104, 105, 105);
+    padding: 10px;
+}
+.fc-title{
+    font-weight: 600;
+    font-size: 18px;
+}
+.fc-desc{
+  font-style:oblique;  
+}

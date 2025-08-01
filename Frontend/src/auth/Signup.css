@@ -1,0 +1,44 @@
+.signup{
+    background-color: #333;
+}
+.signup-container{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.signup-form{
+    background-color: rgb(79, 91, 102);
+    padding: 20px;
+    text-align: center;
+}
+
+.form-input{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+
+input {
+    padding: 10px;
+    margin: 5px;
+}
+
+span {
+    text-align: left;
+    margin-left: 10px;
+    font-style: oblique;
+    font-size: 12px;
+}
+
+/* ///////////////////////////// */
+
+input::placeholder{
+    color: burlywood;
+}
+
+input:focus {
+  outline: none;
+  border-color: #4a90e2;
+  box-shadow: 0 0 5px rgba(74, 144, 226, 0.5);
+}
